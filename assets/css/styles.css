@@ -334,7 +334,12 @@ img{
 .work__img img:hover{
   transform: scale(1.1);
 }
-
+.text{
+  color:black;
+}
+.text:hover{
+  color:var(--first-color);
+}
 /* ===== CONTACT =====*/
 .contact__input{
   width: 100%;
