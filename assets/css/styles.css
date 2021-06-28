@@ -567,7 +567,7 @@ img {
     justify-content: center;
     width: 220px;
     right: 20%;
-    bottom: 20%;
+    bottom: 30%;
     align-content: center;
     margin: 0;
   }
@@ -588,6 +588,6 @@ img {
   .b2{
     
     justify-self: center;
-    margin-left: 5rem;
+    margin-left: 6.5rem;
   }
 }
